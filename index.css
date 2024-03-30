@@ -1,9 +1,27 @@
 html{
     text-align: center;
     color: #2659ff;
-    background-image: url("background.jpg");
+    background-color: aliceblue;
+    margin-bottom: 20px;
 }
 
-body{
-    background-color:#000000c2;
+.about{
+    border: 5px inset rgb(255, 0, 242); 
+    padding: 25px;
+    margin-bottom: 20px;
+}
+
+.yuri{
+    padding: 25px;
+    border: 5px inset rgb(153, 0, 255);
+    margin-bottom: 20px;
+}
+
+.links{
+    color: rgb(187, 20, 220);
+}
+
+.home{
+    margin-left: 50px;
+    margin-right: 50px;
 }
